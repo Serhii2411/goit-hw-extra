@@ -1,0 +1,143 @@
+:root {
+  --primey-text-color: #000000;
+  --primery-background-color: #ffffff;
+}
+Body {
+  background-color: var(--primery-background-color);
+  color: var(--primey-text-color);
+  font-family: poppins;
+  font-size: 20px;
+  line-height: 1.4;
+}
+.logo {
+  font-family: Homemade Apple;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.1;
+  text-decoration: none;
+  color: #231f20;
+}
+.site-nav {
+  font-size: 20px;
+  line-height: 1.4;
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+  color: var(--primey-text-color);
+}
+.button-top {
+  color: #f7941e;
+  font-size: 18px;
+  line-height: 1.2;
+  background-color: #fafafa;
+  text-transform: uppercase;
+}
+.hero-title {
+  font-size: 56px;
+  line-height: 1.23;
+}
+.hero-top {
+  font-size: 18px;
+  line-height: 1.2;
+  color: #ffffff;
+  background-color: #f7941e;
+  text-transform: uppercase;
+}
+.title {
+  font-size: 32px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+.hero-bot {
+  color: #f7941e;
+  background-color: #ffffff;
+  font-size: 18px;
+  line-height: 1.34;
+  text-transform: uppercase;
+}
+.text {
+  font-size: 18px;
+  line-height: 1.35;
+}
+.title-text {
+  font-size: 32px;
+  line-height: 1.4;
+  font-weight: 400;
+}
+.servises {
+  list-style: none;
+}
+.options {
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+.option-link {
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.35;
+}
+.start {
+  background-color: #f7941e;
+}
+.start .black {
+  font-size: 18px;
+  line-height: 1.2;
+  color: #ffffff;
+  background-color: #231f20;
+}
+.start .orange {
+  font-size: 18px;
+  line-height: 1.34;
+  background-color: #f7941e;
+}
+.wish {
+  background-color: #231f20;
+  color: var(--primery-background-color);
+}
+.wish .name {
+  font-size: 14px;
+  line-height: 1.4;
+}
+.wish .title {
+  font-size: 48px;
+  line-height: 1.2;
+}
+.wish .link {
+  font-size: 18px;
+  line-height: 1.4;
+  color: var(--primery-background-color);
+}
+.title-bottom {
+  font-size: 24px;
+  line-height: 1.4;
+}
+.text-bottom {
+  font-size: 18px;
+  line-height: 1.4;
+}
+.link-buttom {
+  font-size: 14px;
+  line-height: 1.4;
+  color: var(--primey-text-color);
+  text-decoration: none;
+}
+.nav-bottom {
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 500;
+  color: var(--primey-text-color);
+  text-decoration: none;
+}
+.logo-bottom {
+  font-family: Homemade Apple;
+  font-size: 18px;
+  line-height: 2.16;
+  color: #f7941e;
+  text-decoration: none;
+}
